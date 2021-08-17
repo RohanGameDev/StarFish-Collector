@@ -15,6 +15,6 @@ public class GameManager : MonoBehaviour
     }
     public void Restart()
     {
-        SceneManager.LoadScene("SampleScene 1");
+        SceneManager.LoadScene("Level 1");
     }
 }
